@@ -29,8 +29,6 @@ pip install Pillow
 **Add a background image:**
 Place your background image in the project directory and name it file.png.
 
-![file](https://github.com/user-attachments/assets/b4001484-d57c-4697-8094-6b7ce9169053)
-
 **Run the application:**
 python to-do.py
 
