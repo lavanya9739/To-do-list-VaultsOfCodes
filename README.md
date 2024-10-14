@@ -67,10 +67,10 @@ A simple and interactive to-do list application built using Python's Tkinter lib
 
 **File Structure**
 - todo-list-app/
-- ├── todo_app.py        # Main application file
-- ├── tasks.txt          # File for storing tasks
-- ├── file.png           # Background image for the GUI
-- └── README.md          # Project documentation
+- ├── todo_app.py        
+- ├── tasks.json          
+- ├── file.png           
+- └── README.md          
 
 **Contributing**
 If you'd like to contribute to this project, please fork the repository and submit a pull request. Your contributions are welcome!
